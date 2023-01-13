@@ -77,6 +77,7 @@
 - [Axelor](https://axelor.com/no-code-bpm/) - Axelor BPM The Low-code / No-Code Platform
 Create your own applications, optimize all your business processes, all without any line of code and with drag and drop.
 - [Kogito](https://kogito.kie.org) - Kognito ergo automate cloud-native business automation for building intelligent applications, backed by battle-tested capabilities.
+- [Flowable](https://www.flowable.com/open-source) - Flowable At the core of the Flowable products are fast, modern process and case management and rules engines that are open source and fully support the BPMN, CMMN, and DMN open standards.
 
 ## Chat and Message Platforms
 
