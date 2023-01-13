@@ -183,6 +183,10 @@ Optimize Your Time, Reduce Costs, and Manage Your Entire Business in the Blink o
 - [Nextcloud](https://github.com/nextcloud/server) - Nextcloud server, a safe home for all your data.
 - [ownCloud](https://github.com/owncloud/core) - [ownCloud](http://owncloud.org/) gives you freedom and control over your own data. A personal cloud which runs on your own server.
 
+## Form Builders
+
+- [Forium](https://github.com/formium/formium) - Forium API-first, headless online form builder and automation tool designed for high performance teams.
+
 ## Help Desk
 
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
