@@ -72,6 +72,11 @@
 
 - [Snipe-IT](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system.
 
+## Business Process Magament (BPM)
+
+- [Axelor](https://axelor.com/no-code-bpm/) - Axelor BPM The Low-code / No-Code Platform
+Create your own applications, optimize all your business processes, all without any line of code and with drag and drop.
+
 ## Chat and Message Platforms
 
 - [Discord](https://discord.com/download) - Freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
@@ -92,6 +97,7 @@
 - [PyroCMS](https://github.com/pyrocms/pyrocms) - PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
 - [TYPO3](https://get.typo3.org/) - TYPO3 is a free and open-source Web content management system written in PHP.
 - [WordPress](https://wordpress.org/download/) - WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
+- [strapi](https://strapi.io/) - Strapi is the leading open-source headless CMS. It’s 100% JavaScript and fully customizable.
 
 ## Code Quality
 
@@ -107,6 +113,7 @@
 
 ## Customer Relationship Management (CRM)
 
+- [Axelor](https://axelor.com/crm/) - Axelor CRM: Open Source & Low-code, Discover a New Approach to Customer Relations, The Complete, Simple and Adaptable CRM to Accelerate Your Growth
 - [ChurchCRM](https://github.com/ChurchCRM/CRM) - An OpenSource Church CRM & Management Software.
 - [DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM a customer relationship management system (CRM) which purpose is to help you keep track of your customers, tasks, appointments, etc.
 - [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM). Out of the box it features group collaboration, campaign and lead management, contact lists, and opportunity tracking.
@@ -158,6 +165,8 @@
 
 ## Enterprise Resource Planning (ERP)
 
+- [Axelor](https://axelor.com/erp/) - Axelor ERP Free Your Business with the True Open Source ERP
+Optimize Your Time, Reduce Costs, and Manage Your Entire Business in the Blink of an Eye.
 - [Dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
 - [ERPNext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP. ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 - [Odoo](https://github.com/odoo/odoo) - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
