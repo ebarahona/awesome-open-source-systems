@@ -76,6 +76,7 @@
 
 - [Axelor](https://axelor.com/no-code-bpm/) - Axelor BPM The Low-code / No-Code Platform
 Create your own applications, optimize all your business processes, all without any line of code and with drag and drop.
+- [Kogito](https://kogito.kie.org) - Kognito ergo automate cloud-native business automation for building intelligent applications, backed by battle-tested capabilities.
 
 ## Chat and Message Platforms
 
